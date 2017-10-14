@@ -1,0 +1,3 @@
+rootProject.name = 'ghoulbnb'
+
+include ':app'
